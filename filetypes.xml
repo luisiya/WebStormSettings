@@ -6,6 +6,7 @@
       <mapping pattern=".env" type="Native" />
       <mapping pattern="Procfile" type="Native" />
       <mapping pattern="card.js" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="modul-1.js" type="PLAIN_TEXT" />
       <mapping pattern="Card.js" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
